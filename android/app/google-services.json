@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741274292490",
+    "project_id": "firenote-2k24",
+    "storage_bucket": "firenote-2k24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741274292490:android:dd10ba435b68178ae6aaf3",
+        "android_client_info": {
+          "package_name": "com.example.firenote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3vTuS9FkTXDgE2l84km0g_5u9kBAp-Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
